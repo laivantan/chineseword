@@ -1,21 +1,29 @@
 {
   "name": "chineseword",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Thư viện tìm kiếm từ vựng tiếng Trung (Chinese vocabulary search)",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "type": "commonjs",
+  "files": [
+    "index.js",
+    "assets/"
+  ],
+  "keywords": [
+    "chinese",
+    "vocabulary",
+    "pinyin",
+    "search",
+    "từ-vựng",
+    "tiếng-trung"
+  ],
+  "author": "Laivantan",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/laivantan/chineseword.git"
+    "url": "git+https://github.com/Laivantan/chineseword.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/laivantan/chineseword/issues"
+    "url": "https://github.com/Laivantan/chineseword/issues"
   },
-  "homepage": "https://github.com/laivantan/chineseword#readme"
+  "homepage": "https://github.com/Laivantan/chineseword#readme"
 }
